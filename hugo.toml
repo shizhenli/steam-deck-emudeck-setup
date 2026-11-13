@@ -1,0 +1,11 @@
+baseURL = "https://steam-deck-emudeck-setup.pages.dev/"
+languageCode = "en-us"
+title = "Steam Deck EmuDeck Setup"
+enableRobotsTXT = true
+[params]
+description = "Configure EmuDeck on Steam Deck: emulator selection, ROM folders, BIOS, Steam ROM Manager, and one game test."
+category = "Gaming"
+source = "steam-deck-emudeck-setup"
+email = "hello@handytasklab.com"
+[markup.goldmark.renderer]
+unsafe = true
