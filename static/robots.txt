@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://steam-deck-emudeck-setup.pages.dev/sitemap.xml
