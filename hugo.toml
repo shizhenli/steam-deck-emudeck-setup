@@ -2,7 +2,9 @@ baseURL = "https://steam-deck-emudeck-setup.pages.dev/"
 languageCode = "en-us"
 title = "Steam Deck EmuDeck Setup"
 enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
 [params]
+template_version = "v1.1.0"
 description = "Configure EmuDeck on Steam Deck: emulator selection, ROM folders, BIOS, Steam ROM Manager, and one game test."
 category = "Gaming"
 source = "steam-deck-emudeck-setup"
