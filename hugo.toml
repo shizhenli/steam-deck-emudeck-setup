@@ -1,7 +1,7 @@
 baseURL = "https://steam-deck-emudeck-setup.pages.dev/"
 languageCode = "en-us"
 title = "Steam Deck EmuDeck Setup"
-enableRobotsTXT = true
+enableRobotsTXT = false
 disableKinds = ["taxonomy", "term"]
 [params]
 source = "steam-deck-emudeck-setup"
